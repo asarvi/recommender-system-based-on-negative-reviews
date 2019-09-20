@@ -100,7 +100,18 @@ Output:
 [‘B004WLX34S’ , ‘B00D4B4MY2’ ,,,,]
 
 
+## testset and system evaluation
+
+to see the testset data refer to following link:
+
+https://github.com/asarvi/recommender_evaluation
+
+place the testData and evaluator.py in main file of project and run the evaluator.py
+
+the results are in a text file named final_result.txt
+
  here is the accuracy result of system for 56 samples.(the test set made by expert)
+
 
 
 precision	recall	F1_measure
