@@ -1,8 +1,12 @@
 # recommender-system-based-on-negative-reviews
 Recommender System based on negative reviews:
+
 This system works based on amazon products dataset.
+
 Requirements:
+
 Python 3.7
+
 Tensorflow
 Keras
 Numpy
