@@ -1,6 +1,6 @@
 # recommender-system-based-on-negative-reviews
 Recommender System based on negative reviews:
-Nowadays, one of the most important and essential tools in online shopping sites are product recommenders. These recommender systems help users observe and notice more products and purchase them if they wish.
+Nowadays, product recommenders are exteremely important tools in online shopping sites. These recommender systems help users observe and notice more products and purchase them if they wish.
 These systems have been implemented in a variety of ways.
 
 The method used in this experiment is different from previous works, which recommends  products to users  based on the their negative comments about a particular product. The advantage of this recommender is that  with respect to the user's negative review,  the negative aspect of the product is identified and then products of the same category are recommended to the user without the mentioned negative aspects. This recommender  system is especially useful when customers want to exchange a product or are looking for a product that does not contain a special feature.
